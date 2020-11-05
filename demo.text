@@ -4,10 +4,6 @@ git push
 git init
 git config
 git branch
-<<<<<<< HEAD
 git delete
-=======
-git delete
-THis is modified in git hub
-commit
->>>>>>> 8de240c3cccdcb91192003c79c5a3f4849000693
+git rebase
+git pull
