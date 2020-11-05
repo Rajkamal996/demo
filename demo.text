@@ -7,3 +7,5 @@ git branch
 git delete
 git rebase
 git pull
+
+demo stash 1
