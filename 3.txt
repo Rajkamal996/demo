@@ -1,0 +1,7 @@
+To increase EBs volume:
+
+df -h
+sudo growpart /dev/xvda 1
+sudo xfs_growfs -d /
+df -h 
+volume will be increased
