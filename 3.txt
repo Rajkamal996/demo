@@ -4,4 +4,6 @@ df -h
 sudo growpart /dev/xvda 1
 sudo xfs_growfs -d /
 df -h 
-volume will be increased
+volume will be increase
+sudo yum list installed | grep -i  " filename"  = command to check whether the file is installed or not
+sudo yum seach " mysql" === command to check for application on internet to downoad
